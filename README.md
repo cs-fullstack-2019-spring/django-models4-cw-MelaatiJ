@@ -1,3 +1,7 @@
+### POINTS: 0
+### KEY: Good start but nothing finished and you needed at least one to be complete :-(
+
+
 # Django Models and Foreign keys
 
 ### Exercise 1
